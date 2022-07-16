@@ -8,7 +8,10 @@ body{background: #FFFFF0; margin: 0; font-family: font-family: 'Source Serif Pro
 }
 p{line-height: 22px;}
 
-/* ! Header */
+/*-----------------------------
+header
+-----------------------------*/
+
 .header{background: #FFFFF0; height: 51px; !important;}
 
 .header__logo{color: #212121; float: left; display: block;
@@ -28,10 +31,33 @@ padding: 15px; text-decoration: none;}
 .header__icon-bar span{display: block; height: 3px; width: 30px;
 	background: #212121; margin-bottom: 5px;}
 
-/* Intro */
+	/*-----------------------------
+	intro
+	-----------------------------*/
+
 .video {autoplay; width:100% !important; height:auto}
 
-/* Cards */
+/*-----------------------------
+Banner
+-----------------------------*/
+
+.banner{background: #292929; height:50%;margin-top:40px}
+.banner__image{width:100%; float:left;height:auto;
+	background-size: cover;
+	-o-background-size: cover;
+	-moz-background-size: cover;
+	background-position: center center;
+}
+.banner__copy{width:70%; float:left;height:100%;display: table;}
+.banner__copy__text{display:left table-cell; vertical-align: middle;padding:30px; color: #dedede;}
+
+.banner__copy__text h3{font-size: 36px;margin-bottom:0;}
+.banner__copy__text h4{font-size: 22px;margin: 5px 0}
+
+/*-----------------------------
+Cards
+-----------------------------*/
+
 .cards{max-width: 1200px; height: 500px; margin: 40px auto;}
 .card{width: 30%; margin: 0 1.5%; background: #DCDCDC; color:#212121;
 	float: left; text-align: center; cursor: pointer;}
@@ -41,16 +67,26 @@ padding: 15px; text-decoration: none;}
 .card__copy:hover{background: #DCDCDC; color: #696969;}
 
 
-/* Footer */
+/*-----------------------------
+Footer
+-----------------------------*/
+
 .footer{background: #212121; padding:30px;color:#fff; margin-top: 40px}
 
 
 
-/* Chi siamo */
+/*-----------------------------
+Chi Siamo
+-----------------------------*/
+
 .cover img{width: 100%;
 	height: auto;}
 
-
+	.chi_siamo{font-family: 'Roboto', sans-serif;}
+	.chi_siamo__copy{max-width: 800px; margin: 0px auto; margin-top: -60px;
+		background: #FFFFF0; padding:20px 40px;position: relative; z-index: 1}
+	.panel__copy__title{font-size: 32px; text-align: center;}
+	.chi_siamo__copy__testo{font-weight: bold; font-size: 16px;}
 
 
 .icone{
@@ -80,16 +116,8 @@ padding: 15px; text-decoration: none;}
 
 .video {width:100% !important; height:100% !important;}
 
-.presentazione{width: 90%; margin: 5%; position: center;}
-
-.banner{height: 300px; margin: 30px 0px;}
-.banner__image{width: 100%; height: auto;}
-.banner__copy{width: 50%; height: 100%}
-
 .card__image{width: 100%; height: auto;}
 
-.events{max-width: 1200px; height: 300px; margin: 40px auto;}
-}
 
 
 
