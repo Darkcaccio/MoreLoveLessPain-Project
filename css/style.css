@@ -78,7 +78,7 @@ padding: 15px; text-decoration: none;}
 
 .intro img{height:30%;}
 
-.video {width:100% !important; height:100% !important;}
+.video {autoplay; width:100% !important; height:100% !important;}
 
 .presentazione{width: 90%; margin: 5%; position: center;}
 
@@ -106,7 +106,7 @@ padding: 15px; text-decoration: none;}
 
 .intro img{height:100%;}
 
-.video {width:100% !important; height:100% !important;}
+.video {autoplay; width:100% !important; height:100% !important;}
 
 .cover img{width: 100%;
 	height: auto;}
