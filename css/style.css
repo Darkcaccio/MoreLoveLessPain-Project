@@ -35,7 +35,7 @@ padding: 15px; text-decoration: none;}
 	intro
 	-----------------------------*/
 
-.video {autoplay; width:100% !important; height:auto}
+.video {autoplay; max-width: 100%; height: auto;}
 
 /*-----------------------------
 Banner
@@ -114,7 +114,7 @@ Chi Siamo
 
 .intro img{height:30%;}
 
-.video {autoplay; width:100% !important; height:100% !important;}
+.video {autoplay; max-width: 100%; height: auto;}
 
 .card__image{width: 100%; height: auto;}
 
@@ -134,7 +134,7 @@ Chi Siamo
 
 .intro img{height:100%;}
 
-.video {autoplay; width:100% !important; height:100% !important;}
+.video {autoplay; max-width: 100%; height: auto;}
 
 .cover img{width: 100%;
 	height: auto;}
