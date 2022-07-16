@@ -16,6 +16,7 @@ p{line-height: 22px;}
 .header img{max-width: 200px; height: 51px; margin-left: 5px;}
 
 .header__menu{float: right; margin: 0; padding: 0;}
+.is-open{height: auto; overflow: auto;}
 
 .header__menu__items{display: inline-block; font-family: 'Roboto', sans-serif;}
 .header__menu__items a{color: #212121; display: block;
@@ -111,7 +112,7 @@ padding: 15px; text-decoration: none;}
 	height: auto;}
 
 .cards{height: 1550px;}
-.card{width: 80%; margin: 5%; text-align: center;}
+.card{width: 100%; margin: 5%; text-align: center;}
 
 
 
