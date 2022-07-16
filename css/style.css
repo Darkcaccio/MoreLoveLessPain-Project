@@ -139,6 +139,10 @@ Chi Siamo
 .cover img{width: 100%;
 	height: auto;}
 
+	.chi_siamo{width: 90%; margin: 5%; position: center;}
+	.chi_siamo__copy{margin-top: -20px;}
+	.chi_siamo__copy__testo p{font-size: 20px;}
+
 .cards{height: 1550px;}
 .card{width: 90%; margin: 5%; text-align: center;}
 
