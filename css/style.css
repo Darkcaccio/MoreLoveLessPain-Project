@@ -134,7 +134,7 @@ Chi Siamo
 
 .intro img{height:100%;}
 
-.video {autoplay; max-width: 100%; height: auto;}
+.video {autoplay; width:100% !important; height:auto}
 
 .cover img{width: 100%;
 	height: auto;}
