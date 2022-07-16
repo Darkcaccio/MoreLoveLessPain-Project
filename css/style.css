@@ -101,7 +101,7 @@ padding: 15px; text-decoration: none;}
 .header__menu{width: 100%; height: auto; overflow: hidden;}
 
 .header__menu__items{display: block;}
-.is-open{height: 310px; overflow: auto;}
+.is-open{height: 220px; overflow: auto;}
 
 .intro img{height:100%;}
 
@@ -111,7 +111,7 @@ padding: 15px; text-decoration: none;}
 	height: auto;}
 
 .cards{height: 1550px;}
-.card{width: 80%; margin: 5%; text-align: center;}
+.card{width: auto; margin: 5%; text-align: center;}
 
 
 
