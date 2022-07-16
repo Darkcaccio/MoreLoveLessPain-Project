@@ -114,7 +114,7 @@ Chi Siamo
 
 .intro img{height:30%;}
 
-.video {width:100% !important; height:100% !important;}
+.video {autoplay; width:100% !important; height:100% !important;}
 
 .card__image{width: 100%; height: auto;}
 
@@ -134,7 +134,7 @@ Chi Siamo
 
 .intro img{height:100%;}
 
-.video {width:100% !important; height:100% !important;}
+.video {autoplay; width:100% !important; height:100% !important;}
 
 .cover img{width: 100%;
 	height: auto;}
