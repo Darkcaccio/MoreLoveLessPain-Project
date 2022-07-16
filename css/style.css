@@ -104,14 +104,14 @@ padding: 15px; text-decoration: none;}
 .is-open{height: 310px; overflow: auto;}
 
 .intro img{height:100%;}
-	
-.video {autoplay; width:100% !important; height:auto}
+
+.video {width:100% !important; height:100% !important;}
 
 .cover img{width: 100%;
 	height: auto;}
 
 .cards{height: 1550px;}
-.card{width: 90%; margin: 5%; text-align: center;}
+.card{width: 100%; margin: 5%; text-align: center;}
 
 
 
