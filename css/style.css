@@ -35,7 +35,7 @@ padding: 15px; text-decoration: none;}
 	intro
 	-----------------------------*/
 
-.video {autoplay; max-width: 100%; height: auto;}
+.video {autoplay; width:100% !important; height:auto}
 
 /*-----------------------------
 Banner
