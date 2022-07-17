@@ -12,7 +12,7 @@ p{line-height: 22px;}
 header
 -----------------------------*/
 
-.header{background: #FFFFF0; height: 51px; !important;}
+.header{background: #212121; height: 55px; !important;}
 
 .header__logo{color: #212121; float: left; display: block;
 	text-decoration: none; }
@@ -22,7 +22,7 @@ header
 .is-open{height: auto; overflow: auto;}
 
 .header__menu__items{display: inline-block; font-family: 'Roboto', sans-serif;}
-.header__menu__items a{color: #212121; display: block;
+.header__menu__items a{color: #ffffff; display: block;
 padding: 15px; text-decoration: none;}
 .header__menu__items a:hover{background: #212121; color:#FFFFF0;}
 
@@ -35,7 +35,7 @@ padding: 15px; text-decoration: none;}
 	intro
 	-----------------------------*/
 
-.video {autoplay; width:100% !important; height:auto}
+.video {autoplay; width:100% !important; height:auto;  margin-top: 0px}
 
 /*-----------------------------
 Banner
@@ -63,7 +63,7 @@ Cards
 	float: left; text-align: center; cursor: pointer;}
 .card__image{width: 100%; height: auto;}
 .card__copy{padding: 5px 10px;}
-.card__copy h1{margin-bottom: 0}
+.card__copy h1{margin-bottom: 0;}
 .card__copy:hover{background: #DCDCDC; color: #696969;}
 
 
