@@ -58,7 +58,7 @@ Banner
 Cards
 -----------------------------*/
 
-.cards{max-width: 1600px; height: 500px; margin: 40px auto;}
+.cards{max-width: 1200px; height: 500px; margin: 40px auto;}
 .card{width: 30%; margin: 0 1.5%; background: #DCDCDC; color:#212121;
 	float: left; text-align: center; cursor: pointer;}
 .carde{width: auto; margin: 0 1.5%; background: #DCDCDC; color:#212121;
