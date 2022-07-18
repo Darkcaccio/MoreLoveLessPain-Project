@@ -195,13 +195,33 @@ Chi Siamo
 @media (max-width: 988px){
 
 
-.video {autoplay; width:100% !important; height:auto}
+.header{background: #000000; height: 65px; !important;}
+.header__icon-bar{display: block;}
+.header img{margin-top: 5px;}
 
+.header__menu{width: 100%; height: 0px; overflow: hidden; margin-top: 0px;}
+
+.header__menu__items{display: block;}
+.is-open{height: auto; overflow: auto;}
+
+
+.video {autoplay; width:100% !important; height:100%;}
+
+.cover img{width: 100%;
+	height: auto;}
+
+	.chi_siamo{width: 90%; margin: 5%; position: center;}
+	.chi_siamo__copy{margin-top: -20px;}
+	.chi_siamo__copy__testo p{font-size: 20px;}
+
+.cards{height: 1200px;}
+.card{width: 80%; margin: 5%; text-align: center;align: center !important;}
 .card__image{width: 100%; height: auto; align: center;}
+
+
+
+.footer{height: 3%; width: auto;}
 .footer3{background: #000000; padding:10px;color:#fff; margin-top: 500px}
-
-
-
 
 /* ! Smartphone */
 @media (max-width: 767px){
