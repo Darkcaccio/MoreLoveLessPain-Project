@@ -180,6 +180,29 @@ Chi Siamo
 		box-shadow: 0 10px 10px rgba(0,0,0,0.1);
 	}
 
+	/*-----------------------------
+	about
+	-----------------------------*/
+
+	.cover img{width: 100%;
+		height: auto;}
+
+		.about{font-family: 'Roboto', sans-serif; color:#000}
+		.about__copy{max-width: 800px; margin: 0px auto; margin-top: -60px;
+			background: #fff; padding:20px 40px;position: relative; z-index: 1; margin-bottom: 5px}
+		.about__copy__title{font-size: 33px; text-align: center;}
+		.about__copy__testo{font-weight: bold; font-size: 16px; color:#000}
+		.about__banner{width: 30%; height: 30%;}
+		.about_testo{color:#000}
+
+
+	.icone{
+		display: grid;
+		height: 100%;
+		width: 100%;
+		place-items: center;
+		background: linear-gradient(315deg, #ffffff, #d7e1ec);}
+
 /* DOC */
 .documentazione{font-family: 'Source Serif Pro', serif;}
 .documentazione__copy{max-width: 800px; margin: 0px auto; margin-top: -60px;
