@@ -192,7 +192,7 @@ Chi Siamo
 			background: #fff; padding:20px 40px;position: relative; z-index: 1; margin-bottom: 5px}
 		.about__copy__title{font-size: 33px; text-align: center;}
 		.about__copy__testo{font-weight: bold; font-size: 16px; color:#000}
-		.about__banner{width: 30%; height: 30%;}
+		.about__banner{width: 50%; height: 50%;margin-bottom: 10px}
 		.about_testo{color:#000}
 
 
