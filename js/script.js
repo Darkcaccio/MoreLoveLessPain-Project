@@ -24,5 +24,3 @@ function prec(){
     }
     document.querySelector("#img_slider img:nth-child(" + corrente + ")").style.display = "block";
 }
-
-setInterval(succ, 5000);
