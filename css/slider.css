@@ -115,15 +115,15 @@ video{
 		display:block;
 	}
 	#slider button{
-		width:200px;
-		height:200px;
+		width:90px;
+		height:90px;
 		border:solid white 0px;
 		color:white;
 		outline:none;
 		cursor: pointer;
 		background:none;
 		border-radius: 25px;
-		font-size:40px;
+		font-size:80px;
 		transition: all 0.1s ease-in-out;
 	}
 	#slider button:hover{
