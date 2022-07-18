@@ -216,12 +216,16 @@ Chi Siamo
 
 .cards{height: 1200px;}
 .card{width: 120%; margin: 5%; text-align: center;align: center !important;}
+.carde1{width: auto; margin: 0 1.5%; background: #000000; color:#DCDCDC;
+	float: left; text-align: center; cursor: pointer; margin-bottom: 10px}
+.carde{width: auto; margin: 0 1.5%; background: #000000; color:#DCDCDC; margin-bottom: 10px ;
+	float: left; text-align: center; cursor: pointer; padding:10px}
 .card__image{width: 100%; height: auto; align: center;}
 
 
 
 .footer{height: 3%; width: auto;}
-.footer3{background: #000000; padding:10px;color:#fff; margin-top: 500px}
+.footer3{background: #000000; padding:10px;color:#fff; margin-top: 500px;}
 
 /* ! Smartphone */
 @media (max-width: 767px){
@@ -247,6 +251,10 @@ Chi Siamo
 
 .cards{height: 1200px;}
 .card{width: 90%; margin: 5%; text-align: center;align: center !important;}
+.carde1{width: auto; margin: 0 1.5%; background: #000000; color:#DCDCDC;
+	float: left; text-align: center; cursor: pointer; margin-bottom: 10px}
+.carde{width: auto; margin: 0 1.5%; background: #000000; color:#DCDCDC; margin-bottom: 10px ;
+	float: left; text-align: center; cursor: pointer; padding:10px}
 
 
 
