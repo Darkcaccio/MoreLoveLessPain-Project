@@ -198,7 +198,8 @@ Chi Siamo
 
 .video {autoplay; width:100% !important; height:auto}
 
-.card__image{width: 100%; height: auto;}
+.card__image{width: 100%; height: auto; vertical-align: center;}
+.footer3{background: #000000; padding:10px;color:#fff; margin-top: 500px}
 
 
 
@@ -226,12 +227,12 @@ Chi Siamo
 	.chi_siamo__copy__testo p{font-size: 20px;}
 
 .cards{height: 1200px;}
-.card{width: 80%; margin: 5%; text-align: center;}
+.card{width: 80%; margin: 5%; text-align: center;vertical-align: center;}
 
 
 
 .footer{height: 3%; width: auto;}
-
+.footer3{background: #000000; padding:10px;color:#fff; margin-top: 500px}
 
 
 
